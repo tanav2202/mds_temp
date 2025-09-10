@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "mds_temp_project"
+  title: "mds_temp"
   navbar:
     left:
       - href: index.qmd
